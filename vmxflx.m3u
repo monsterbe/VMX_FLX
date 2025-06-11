@@ -41,3 +41,6 @@ https://s3.savefiles.com/hls2/01/00101/l7d5luxhcaee_n/index-v1-a1.m3u8?t=FN1YWtn
 #EXTINF:0,Bembang kay Jonica Lazo
 #EXTVLCOPT:network-caching=1000
 https://s3.savefiles.com/hls2/01/00101/bzftjmhshwds_n/index-v1-a1.m3u8?t=eGNaukMQECUvlqy_M0RdbS29pX8uNofZ4meMRMhGgNg&s=1749634661&e=43200&v=342321&srv=s4&i=0.0&sp=0
+#EXTINF:0,Babaing nawawala sa sarili si Ayanna Misola
+#EXTVLCOPT:network-caching=1000
+https://s3.savefiles.com/hls2/01/00101/1uekx3s7x9wa_n/index-v1-a1.m3u8?t=jbGIiJKDei8JIf7adf07TYo04wEErCN_8OjRGBeA9tA&s=1749635222&e=43200&v=348238&srv=s4&i=0.0&sp=0
